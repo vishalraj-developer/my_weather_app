@@ -1,5 +1,9 @@
 # my_weather_app
 
+# Please see the video for demo.
+
+https://screenrec.com/share/WR8qz0nMfk
+
 A new Flutter project.
 
 ## Getting Started
